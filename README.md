@@ -1,6 +1,6 @@
 # iWeather
 
-Şehrinizin ister günlük isterseniz gelecek 5 günün hava derecelerini kontrol edebilrisiniz hava kalitesiyle birlikte.
+You can check the weather temperatures of your city, whether daily or for the next 5 days, along with air quality
 
 ## Technologies Used
 
@@ -12,6 +12,6 @@
 
 ## Screenshots
 
-(./src/components/images/1.png)
-(./src/components/images/2.png)
-(./src/components/images/3.png)
+![Home](./src/components/images/1.png)
+![Loadoption](./src/components/images/2.png)
+![Waather](./src/components/images/3.png)

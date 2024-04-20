@@ -1,0 +1,46 @@
+.forecast {
+    width: 359px;
+    height: 176px;
+    display: flex;
+    justify-content: center;
+    border-radius: 12px;
+    background-color: #16161F;
+    position: relative;
+    top: 10px;
+  }
+  
+  .forecast-cards {
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    width: 335px;
+    height: 152px;
+  }
+  .forecast-card h3 {
+    margin-bottom: -10px;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 19.6px;
+    text-align: center;
+    color: #BFBFD4;
+  }
+  .forecast-card img {
+    width: 56px;
+    height: 56px;
+    margin-bottom: -10px;
+  }
+  .forecast-card h1 {
+    margin-bottom: -10px;
+    font-size: 14px;
+    font-weight: 700;
+    text-align: center;
+    color: #fafafa;
+  }
+  
+  .forecast-card p {
+font-size: 14px;
+font-weight: 700;
+text-align: center;
+color: #7F7F98;
+  }
+  
